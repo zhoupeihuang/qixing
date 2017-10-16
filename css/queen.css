@@ -1,0 +1,82 @@
+*{margin: 0; padding: 0;}
+.QmaxBox{
+	min-height: 750px;
+	background-color: white;
+	font-family: "微软雅黑",arial;
+	font-size: 30px;
+}
+
+.headBox {
+	height: 126px;
+	width: 750px;
+	font-size: 36px;
+	color: white;
+	text-align: center;
+	line-height: 150px;
+	background-color: #00c97a;
+}
+
+.mainBox {
+	position: relative;
+	width: 750px;
+	min-height: 750px;
+}
+/*--------招募伙伴--------*/
+.zhaomuBG{
+	background-image: url(../image/timg.jpg);
+	background-position: bottom ;
+	background-repeat: no-repeat;
+	background-size:750px 520px ; 
+}
+.zhaomuBox{
+	border: 5px solid #00c97a;
+	border-radius: 10px;
+	height:1245px ;
+	width: 636px;
+	padding: 22px 28px;
+	position: relative;
+	margin: 40px auto 0 auto;
+	text-align: left;
+}
+.littleTitle{
+	width: 234px;
+	word-wrap: break-word;
+	/*width:fit-content;
+	width:-webkit-fit-content;
+	padding:0 10px;
+	width:-moz-fit-content;*/
+	height: 58px;
+	line-height: 58px;
+	border: 4px solid #00C97A;
+	border-radius: 10px;
+	position: relative;
+	margin: 20px auto;
+	text-align: center;
+}
+.bigTitle{
+	width: 300px;
+}
+.yaoqiuList{
+	position: relative;
+	margin: 20px auto;
+	width: 636px;
+	list-style: none;
+	text-align: left;
+    padding: 0px;
+}
+.yaoqiuList li{
+	text-align: left;
+	font-size: 26px;
+	list-style: none;
+}
+.lianxiBox{
+	width: 700px;
+	height: 68px;
+	padding:15px 0;
+	font-size: 30px;
+	color: black;
+	text-align: left;
+	position: relative;
+	margin: 0 auto;
+}
+/*--------招募伙伴--------*/
